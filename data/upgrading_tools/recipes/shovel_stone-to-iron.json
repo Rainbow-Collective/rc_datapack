@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smithing",
+    "group": "upgrading_stone",
+    "base": {
+        "item": "minecraft:stone_shovel"
+    },
+    "addition": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": "minecraft:iron_shovel"
+}

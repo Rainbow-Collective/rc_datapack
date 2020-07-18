@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "bushes",
+    "ingredients": [
+        {
+            "item":"minecraft:dark_oak_leaves"
+        },
+        {
+            "item":"minecraft:stick"
+        }
+    ],
+    "result": {
+        "item": "minecraft:dark_oak_sapling",
+        "count": 1
+    }
+}

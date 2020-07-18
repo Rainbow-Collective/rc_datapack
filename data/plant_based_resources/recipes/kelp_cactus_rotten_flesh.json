@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "plant_based_resources",
+    "ingredients": [
+        {
+            "item":"minecraft:kelp"
+        },
+        {
+            "item":"minecraft:cactus"
+        }
+    ],
+    "result": {
+        "item": "minecraft:rotten_flesh",
+        "count": 1
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "bushes",
+    "ingredients": [
+        {
+            "item":"minecraft:jungle_sapling"
+        }
+    ],
+    "result": {
+        "item": "minecraft:jungle_leaves",
+        "count": 4
+    }
+}

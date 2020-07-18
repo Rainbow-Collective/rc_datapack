@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "milling",
+    "ingredient": {
+        "item": "minecraft:gravel"
+    },
+    "result": "minecraft:flint",
+    "count": 4
+}

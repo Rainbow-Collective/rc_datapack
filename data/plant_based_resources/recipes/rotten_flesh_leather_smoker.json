@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smoking",
+    "group": "plant_based_resources",
+    "ingredient": {
+        "item": "minecraft:rotten_flesh"
+    },
+    "result": "minecraft:leather",
+    "experience": 1,
+    "cookingtime": 100
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "craftable_loot",
+    "pattern": ["lwl","lll"," i "],
+    "key":{
+        "l": {
+            "item": "minecraft:leather"
+        },
+        "w": {
+            "tag": "minecraft:wool"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:saddle",
+        "count": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smithing",
+    "group": "upgrading_",
+    "base": {
+        "item": "minecraft:gold_shovel"
+    },
+    "addition": {
+        "item": "minecraft:diamond"
+    },
+    "result": "minecraft:diamond_shovel"
+}

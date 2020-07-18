@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:blasting",
+    "group": "craftable_loot",
+    "ingredient": {
+        "item": "minecraft:clay"
+    },
+    "result": "minecraft:emerald",
+    "experience": 1000,
+    "cookingtime": 18000
+}

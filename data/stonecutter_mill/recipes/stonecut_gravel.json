@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "milling",
+    "ingredient": {
+        "item": "minecraft:cobblestone"
+    },
+    "result": "minecraft:gravel",
+    "count": 1
+}

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smithing",
+    "group": "upgrading_iron",
+    "base": {
+        "item": "minecraft:iron_sword"
+    },
+    "addition": {
+        "item": "minecraft:gold_ingot"
+    },
+    "result": "minecraft:gold_sword"
+}

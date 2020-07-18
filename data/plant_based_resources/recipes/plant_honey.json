@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "plant_based_resouces",
+    "ingredients": [
+        {
+            "item":"minecraft:slime_ball"
+        },
+        {
+            "item":"minecraft:sugar"
+        },
+        {
+            "item":"minecraft:potion"
+        }
+    ],
+    "result": {
+        "item": "minecraft:honey_bottle",
+        "count": 1
+    }
+}

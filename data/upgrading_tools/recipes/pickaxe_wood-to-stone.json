@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smithing",
+    "group": "upgrading_wood",
+    "base": {
+        "item": "minecraft:wooden_pickaxe"
+    },
+    "addition": {
+        "tag": "minecraft:stone_tool_materials"
+    },
+    "result": "minecraft:stone_pickaxe"
+}
