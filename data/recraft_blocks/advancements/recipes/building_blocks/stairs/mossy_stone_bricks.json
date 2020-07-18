@@ -14,7 +14,7 @@
         "has_the_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "slabs_stairs_to_block:stairs/mossy_stone_bricks"
+                "recipe": "recraft_blocks:stairs/mossy_stone_bricks"
             }
         }
     },
@@ -26,7 +26,7 @@
     ],
     "rewards": {
         "recipes": [
-            "slabs_stairs_to_block:stairs/mossy_stone_bricks"
+            "recraft_blocks:stairs/mossy_stone_bricks"
         ]
     }
 }

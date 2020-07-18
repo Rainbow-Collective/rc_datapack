@@ -14,7 +14,7 @@
         "has_the_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "slabs_stairs_to_block:slabs/polished_diorite"
+                "recipe": "recraft_blocks:slabs/polished_diorite"
             }
         }
     },
@@ -26,7 +26,7 @@
     ],
     "rewards": {
         "recipes": [
-            "slabs_stairs_to_block:slabs/polished_diorite"
+            "recraft_blocks:slabs/polished_diorite"
         ]
     }
 }

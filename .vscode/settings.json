@@ -3,7 +3,9 @@
         "cookingtime",
         "craftable",
         "minecraft",
+        "slimeballs",
         "smithing",
+        "stonecut",
         "unpackable"
     ]
 }

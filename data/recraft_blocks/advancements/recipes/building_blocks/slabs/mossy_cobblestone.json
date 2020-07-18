@@ -14,7 +14,7 @@
         "has_the_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "slabs_stairs_to_block:slabs/mossy_cobblestone"
+                "recipe": "recraft_blocks:slabs/mossy_cobblestone"
             }
         }
     },
@@ -26,7 +26,7 @@
     ],
     "rewards": {
         "recipes": [
-            "slabs_stairs_to_block:slabs/mossy_cobblestone"
+            "recraft_blocks:slabs/mossy_cobblestone"
         ]
     }
 }

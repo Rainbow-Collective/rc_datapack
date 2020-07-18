@@ -1,0 +1,40 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "plant_based_resources:plant_honey"        ]
+    },
+    "criteria": {
+        "has_slime": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:slime_ball"
+                }]
+            }
+        },
+        "has_potion": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:potion"
+                }]
+            }
+        },
+        "has_sugar": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:sugar"
+                }]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_slime",
+            "has_potion",
+            "has_sugar"
+        ]
+    ]
+}

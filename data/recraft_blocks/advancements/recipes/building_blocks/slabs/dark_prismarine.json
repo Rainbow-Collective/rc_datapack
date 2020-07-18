@@ -14,7 +14,7 @@
         "has_the_recipe": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "slabs_stairs_to_block:slabs/dark_prismarine"
+                "recipe": "recraft_blocks:slabs/dark_prismarine"
             }
         }
     },
@@ -26,7 +26,7 @@
     ],
     "rewards": {
         "recipes": [
-            "slabs_stairs_to_block:slabs/dark_prismarine"
+            "recraft_blocks:slabs/dark_prismarine"
         ]
     }
 }

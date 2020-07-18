@@ -1,0 +1,31 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "plant_based_resources:kelp_cactus_rotten_flesh"        ]
+    },
+    "criteria": {
+        "has_cactus": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:cactus"
+                }]
+            }
+        },
+        "has_kelp": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:kelp"
+                }]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_cactus",
+            "has_kelp"
+        ]
+    ]
+}

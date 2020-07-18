@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_sapling": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "minecraft:saplings"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_sapling"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "bushes:acacia_sapling_leaves",
+            "bushes:birch_sapling_leaves",
+            "bushes:dark_oak_sapling_leaves",
+            "bushes:jungle_sapling_leaves",
+            "bushes:oak_sapling_leaves",
+            "bushes:spruce_sapling_leaves"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "unpackable_blocks:unpackable_blue_ice"
+    ]
+  },
+  "criteria": {
+    "has_blue_ice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:blue_ice"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_blue_ice"
+    ]
+  ]
+}
