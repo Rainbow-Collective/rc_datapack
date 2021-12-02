@@ -14,8 +14,7 @@
     },
     "requirements": [
         [
-            "has_sapling",
-            "has_stick"
+            "has_sapling"
         ]
     ],
     "rewards": {

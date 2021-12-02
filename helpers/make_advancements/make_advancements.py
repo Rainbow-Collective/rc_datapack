@@ -57,7 +57,7 @@ for recipe_path in recipe_paths:
                     )
                 )
             ),
-            requirements=list(['has_items', 'has_the_recipe']),
+            requirements=[['has_items', 'has_the_recipe']],
             rewards=dict(
                 recipes=list(['{}:{}'.format(data['group'], relative_path.replace('\\', '/'))])
             )
