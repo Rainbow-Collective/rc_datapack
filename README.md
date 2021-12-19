@@ -32,6 +32,13 @@ Saddle
 | leather | leather | leather |
 |         | iron    |         |
 
+Horse Armor
+
+|         |         |Material |
+|---------|---------|---------|
+| Material |Material | Material |
+|Material | Saddle  | Material|
+
 ### Dairy
 
 Allows crafting of slime from eggs
