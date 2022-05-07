@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mlm",
+    "mcm",
+    "f f"
+  ],
+  "key": {
+    "f": {
+      "item": "minecraft:feather"
+    },
+    "m": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "l": {
+      "item": "minecraft:ender_pearl"
+    },
+    "c": {
+      "item": "minecraft:leather_chestplate"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra",
+    "count": 1
+  }
