@@ -44,7 +44,7 @@ Elytra
 | membrane | ender pearl | membrane |
 |---------|---------|---------|
 |membrane|leather chestplate |membrane|
-| feather |---------| feather |
+| feather |         | feather |
 
 
 ### Dairy
