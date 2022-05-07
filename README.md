@@ -19,6 +19,7 @@ Allows crafting of saplings from leaves and sticks. (No more frustrating tree fa
 * craftable nametag
 * craftable saddles
 * lab/blast furnace gemstones 
+* elytra
 
 Nametag
 |       | iron nugget | string      |
@@ -38,6 +39,12 @@ Horse Armor
 |---------|---------|---------|
 | Material |Material | Material |
 |Material | Saddle  | Material|
+
+Elytra
+| membrane | ender pearl | membrane |
+|membrane|leather chestplate |membrane|
+| feather |---------| feather |
+
 
 ### Dairy
 
