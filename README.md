@@ -42,6 +42,7 @@ Horse Armor
 
 Elytra
 | membrane | ender pearl | membrane |
+|---------|---------|---------|
 |membrane|leather chestplate |membrane|
 | feather |---------| feather |
 
