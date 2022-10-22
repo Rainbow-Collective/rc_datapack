@@ -1,22 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "mlm",
+    "mem",
     "mcm",
-    "f f"
+    "mfm"
   ],
   "key": {
-    "f": {
-      "item": "minecraft:feather"
-    },
     "m": {
       "item": "minecraft:phantom_membrane"
     },
-    "l": {
-      "item": "minecraft:ender_pearl"
+    "e": {
+      "item": "minecraft:ender_eye"
     },
     "c": {
       "item": "minecraft:leather_chestplate"
+    },
+    "f": {
+      "item": "minecraft:popped_chorus_fruit"
     }
   },
   "result": {

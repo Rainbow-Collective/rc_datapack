@@ -41,10 +41,10 @@ Horse Armor
 |Material | Saddle  | Material|
 
 Elytra
-| membrane | ender pearl | membrane |
+| membrane | ender eye | membrane |
 |---------|---------|---------|
 |membrane|leather chestplate |membrane|
-| feather |         | feather |
+| membrane |popped fruit| membrane |
 
 
 ### Dairy
