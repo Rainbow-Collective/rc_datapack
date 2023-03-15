@@ -4,6 +4,7 @@ about: Suggest a new Recipe
 title: "[RECIPE] <Target Item(s)"
 labels: recipe
 assignees: rarmenia, circuitsunfish
+
 ---
 
 **What item(s) do you want to add or a recipe for?**
@@ -13,35 +14,15 @@ List the end product(s) that you would like there to be a recipe for.
 _What worktable does the proposed recipe use?_
 [Crafting table, Loom, Smithing Table, Furnace...]
 
-_Please describe a possible recipe for this item._
-
 Please list items should go into the recipe.
 
 - item one
 - item two
 - item three
 
-If the recipe uses Crafting Table, you can propose a shaped crafting table using this template.
+** If you have an idea of what the recipe(s) should be please include it here**
+Use https://crafting.thedestruc7i0n.ca/ and copy the recipe image here.
 
-<html>
-<table>
-<tr>
-<td> top left  </td>
-<td> top center </td>
-<td> top right </td>
-</tr>
-<tr>
-<td> mid left </td>
-<td> center </td>
-<td> mid right </td>
-</tr>
-<tr>
-<td> bot left </td>
-<td> bot center </td> 
-<td> bot right </td>
-</tr>
-</table>
-</html>
 
 **Please describe some reasoning for the item(s) to be craftable and what the recipe adds to the game**
 
