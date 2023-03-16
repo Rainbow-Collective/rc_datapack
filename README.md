@@ -13,39 +13,6 @@ Allows crafting of saplings from leaves and sticks. (No more frustrating tree fa
 |         |        |   |
 |  leaves | sticks |   |
 
-### Craftable Loot
-
-* craftable horse armor
-* craftable nametag
-* craftable saddles
-* lab/blast furnace gemstones 
-* elytra
-
-Nametag
-|       | iron nugget | string      |
-|-------|-------------|-------------|
-|       | paper       | iron nugget |
-| paper |             |             |
-
-Saddle
-| leather | wool    | leather |
-|---------|---------|---------|
-| leather | leather | leather |
-|         | iron    |         |
-
-Horse Armor
-
-|         |         |Material |
-|---------|---------|---------|
-| Material |Material | Material |
-|Material | Saddle  | Material|
-
-Elytra
-| membrane | ender eye | membrane |
-|---------|---------|---------|
-|membrane|leather chestplate |membrane|
-| membrane |popped fruit| membrane |
-
 
 ### Dairy
 
@@ -69,14 +36,6 @@ So you can roleplay as a hipster vegan if you want
 * recraft slabs into blocks
 * recraft stairs into blocks
 
-### Stonecutter Mill
-
-Avoiding digging out huge swathes of the world just because you want some tnt or concrete. 
-Allows for the following path in the stonecutter:
-
-Stone -> Cobblestone -> Gravel -> Sand -> Clay -> Clay balls
-
-Also allows grinding gravel into flints
 
 ### Unpackable blocks
 
