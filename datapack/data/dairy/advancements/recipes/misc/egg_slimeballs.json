@@ -5,18 +5,27 @@
             "dairy:egg_slimeballs"        ]
     },
     "criteria": {
-        "has_item": {
+        "has_egg": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [{
                     "item": "minecraft:egg"
                 }]
             }
+        },
+        "has_kelp": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:kelp"
+                }]
+            }
         }
     },
     "requirements": [
         [
-            "has_item"
+            "has_egg",
+            "has_kelp"
         ]
     ]
 }
