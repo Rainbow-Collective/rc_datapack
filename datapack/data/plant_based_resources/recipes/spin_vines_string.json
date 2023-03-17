@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "plant_based_resources",
+    "pattern": [
+        "v  ",
+        "v  ",
+        "v  "],
+    "key":{
+        "v": {
+            "item": "minecraft:vine"
+        }
+    },
+    "result": {
+        "item": "minecraft:string",
+        "count": 2
+    }
+}
