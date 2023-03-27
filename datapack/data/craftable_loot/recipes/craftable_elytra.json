@@ -1,25 +1,29 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "mem",
+    "#*#",
     "mcm",
-    "mfm"
+    "fwf"
   ],
   "key": {
-    "m": {
-      "item": "minecraft:phantom_membrane"
+    "#": {
+      "item": "minecraft:chorus_flower"
     },
-    "e": {
-      "item": "minecraft:ender_eye"
+    "*": {
+      "item": "minecraft:nether_star"
     },
     "c": {
       "item": "minecraft:leather_chestplate"
     },
     "f": {
-      "item": "minecraft:popped_chorus_fruit"
+      "item": "minecraft:feather"
+    },
+    "w": {
+      "item": "minecraft:honeycomb"
     }
   },
   "result": {
     "item": "minecraft:elytra",
     "count": 1
   }
+}
