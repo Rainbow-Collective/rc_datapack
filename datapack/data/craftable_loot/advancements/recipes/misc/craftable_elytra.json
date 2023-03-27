@@ -21,12 +21,22 @@
                 ]
             }
         },
-        "has_pearl": {
+        "has_star": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [
                     {
-                        "item": "minecraft:ender_pearl"
+                        "item": "minecraft:nether_star"
+                    }
+                ]
+            }
+        },
+        "has_comb": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:honeycomb"
                     }
                 ]
             }
@@ -36,7 +46,8 @@
         [
             "has_feather",
             "has_membrane",
-            "has_pearl"
+            "has_star",
+            "has_comb"
         ]
     ],
     "rewards": {
