@@ -40,6 +40,16 @@
                     }
                 ]
             }
+        },
+        "has_flower": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:chorus_flower"
+                    }
+                ]
+            }
         }
     },
     "requirements": [
@@ -47,7 +57,8 @@
             "has_feather",
             "has_membrane",
             "has_star",
-            "has_comb"
+            "has_comb",
+            "has_flower"
         ]
     ],
     "rewards": {
