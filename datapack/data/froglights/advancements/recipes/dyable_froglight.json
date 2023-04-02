@@ -1,0 +1,29 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "froglights:dyable_froglight_ochre_pearlescent.json",
+            "froglights:dyable_froglight_ochre_verdant.json",
+            "froglights:dyable_froglight_pearlescent_ochre.json",
+            "froglights:dyable_froglight_pearlescent_verdant.json",
+            "froglights:dyable_froglight_verdant_ochre.json",
+            "froglights:dyable_froglight_verdant_pearlescent.json"
+
+        ]
+    },
+    "criteria": {
+        "has_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:ochre_froglight"
+                }]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_item"
+        ]
+    ]
+}

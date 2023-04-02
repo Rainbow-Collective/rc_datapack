@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "craftable_loot:craftable_chainmail_helmet",
+            "craftable_loot:craftable_chainmail_tunic",
+            "craftable_loot:craftable_chainmail_leggings",
+            "craftable_loot:craftable_chainmail_boots"
+        ]
+    },
+    "criteria": {
+        "has_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:chain"
+                }]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_item"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:tadpole_bucket"
+        },
+        {
+            "item": "minecraft:magma_cream"
+        },
+        {
+            "item": "minecraft:carved_pumpkin"
+        }
+    ],
+    "result": {
+        "item": "minecraft:ochre_froglight",
+        "count": 1
+    }
+}

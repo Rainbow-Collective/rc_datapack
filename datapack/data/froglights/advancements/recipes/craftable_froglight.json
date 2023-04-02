@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "froglights:craftable_froglight"
+        ]
+    },
+    "criteria": {
+        "has_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [{
+                    "item": "minecraft:tadpole_bucket"
+                }]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_item"
+        ]
+    ]
+}
